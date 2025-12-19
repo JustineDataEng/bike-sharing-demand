@@ -14,7 +14,7 @@ In this project, I:
 - Trained machine learning models to predict bike rental demand
 - Generated predictions suitable for Kaggle submission
 
-This notebook represents my learning and experimentation process as a data science student.
+This notebook represents my learning and experimentation process as a data science and engineering student.
 
 ---
 
